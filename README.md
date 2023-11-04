@@ -1,4 +1,11 @@
-### Hi there 👋
+## Featured Projcets
+
+- [barrybach.com](https://barrybach.com)
+*Repo: (https://github.com/bbachdev/barry-bach-site)*
+
+Static website created for my voice-related work.
+**Built using**
+![Icons for TypeScript](https://skillicons.dev/icons?i=ts,react,vite,tailwind)
 
 <!--
 **bbachdev/bbachdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
