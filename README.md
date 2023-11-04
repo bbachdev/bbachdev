@@ -1,4 +1,4 @@
-## Featured Projcets
+## Featured Projects
 
 - [barrybach.com](https://barrybach.com)
 *Repo: (https://github.com/bbachdev/barry-bach-site)*\
