@@ -1,7 +1,8 @@
 ## Featured Projects
 
 - [barrybach.com](https://barrybach.com)
-*Repo: (https://github.com/bbachdev/barry-bach-site) \
+*Repo: (https://github.com/bbachdev/barry-bach-site)
+\
 
 Static website created for my voice-related work.\
 **Built Using:**<br/><br/>
