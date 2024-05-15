@@ -5,7 +5,7 @@
 
 A desktop music player built using Tauri 2.0.\
 **Built Using:**<br/><br/>
-![Tech Stack](https://skillicons.dev/icons?i=tauri,react,vite,tailwind)
+![Tech Stack](https://skillicons.dev/icons?i=tauri,ts,react,vite,tailwind)
 
 <br/>
 
